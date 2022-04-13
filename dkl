@@ -1,0 +1,23 @@
+[33mcommit b59cfa0f02e7ba6d8e79b9ae106f2531464bc439[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: samuel <samuelayne3@gmail.com>
+Date:   Wed Apr 13 22:00:40 2022 +0300
+
+    added main.go with empty main function
+
+[33mcommit 2a4cfd0f74f07118b380b271c4a6aa8b6ca6826b[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: samuel <samuelayne3@gmail.com>
+Date:   Wed Apr 13 18:43:16 2022 +0300
+
+    added body{} in main.css
+
+[33mcommit e38d3c4e128665356ccc66b4e4f4de06bed790ca[m
+Author: samuel <samuelayne3@gmail.com>
+Date:   Wed Apr 13 18:31:34 2022 +0300
+
+    added console.log
+
+[33mcommit af8d5aa29a0796fe35f817549664beee18f17ed7[m
+Author: samuel <samuelayne3@gmail.com>
+Date:   Wed Apr 13 18:17:50 2022 +0300
+
+    bootstrap project
